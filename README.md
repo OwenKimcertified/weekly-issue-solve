@@ -5,7 +5,7 @@
 목적은 코딩을 처음 시작한 그 누구라도 보고 이해가 될 수 있을만큼 자세하고 쉽게 설명하려 노력하였습니다.
 
 ## 2022 09 / 10
-    <mark>__파일 이름 about melt and .str.ipynb__</mark>
-    +끝에 오는 .str의 정체
-    +pd.melt를 모르겠어요 ! 
+<mark>__파일 이름 about melt and .str.ipynb__</mark>
++끝에 오는 .str의 정체
++pd.melt를 모르겠어요 ! 
     
