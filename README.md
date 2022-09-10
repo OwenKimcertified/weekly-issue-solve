@@ -6,6 +6,8 @@
 
 ## 2022 09 / 10
 <mark>__파일 이름 about melt and .str.ipynb__</mark>
+
 +끝에 오는 .str의 정체
+
 +pd.melt를 모르겠어요 ! 
     
