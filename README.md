@@ -14,3 +14,12 @@
 ## 2022/ 9 / 12
 
 1. ML 시 사용할 데이터 scaling, normalize, regularize, one hot encoding에 대해서 
+
+
+## 2022/ 9 / 17
+
+1. 분류 문제 ML 시 주의점
+
+2. XGBoost등 기타 사용법
+
+3. 결측치를 어떻게 핸들링 할까에 대한 고민 (계속 생각해야 하는 문제)
