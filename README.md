@@ -19,3 +19,8 @@
 ## 2022/ 9 / 18
 
 ★ 결측치를 어떻게 핸들링 할까에 대한 고민 (계속 생각해야 하는 문제)
+
+
+## 2022/ 9 / 24
+
+data leakage, cross validation, check point(주의점)
