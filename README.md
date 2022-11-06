@@ -12,21 +12,25 @@
 2. pd.melt를 모르겠어요 ! 
     
 ## 2022/ 9 / 12
+<mark>__파일 이름 ML -> scaling,reg,nor.ipynb__</mark>
 
 1. ML 시 사용할 데이터 scaling, normalize, regularize, one hot encoding에 대해서 
 
 
 ## 2022/ 9 / 18
+<mark>__파일 이름 Missing value -> caution__</mark>
 
 ★ 결측치를 어떻게 핸들링 할까에 대한 고민 (계속 생각해야 하는 문제)
 
 
 ## 2022/ 9 / 24
+<mark>__파일 이름 Missing value -> missing value check list.ipynb__</mark>
 
 data leakage, cross validation, check point(주의점)
 
 
 ## 2022 / 11/ 06
+<mark>__파일 이름 pandas,python -> class.ipynb__</mark>
 
 class... 언제쯤 정복할 수 있을까?
 
