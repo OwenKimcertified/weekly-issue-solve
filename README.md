@@ -48,6 +48,6 @@ class... 언제쯤 정복할 수 있을까? 2 편
 
 2-2 비공개 클래스 속성 
 
-2-3 파이썬에 내장된 property( ) 와 @property +$\alpha$ getter 와 setter
+2-3 파이썬에 내장된 property( ) 와 @property +@ getter 와 setter
 
 
