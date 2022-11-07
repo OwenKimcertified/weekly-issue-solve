@@ -29,13 +29,25 @@
 data leakage, cross validation, check point(주의점)
 
 
-## 2022 / 11/ 06
+## 2022 / 11/ 05
 <mark>__파일 이름 pandas,python -> class.ipynb__</mark>
 
-class... 언제쯤 정복할 수 있을까? 1 편
+class... 언제쯤 정복할 수 있을까? 1 편 함수, 클래스, 2-1 클래스의 속성은 클래스에 속해있고 모든 인스턴스에서 공유한다.
 
 @ 늦은 업로드 죄송합니다.. 공부하고 있는 내용이 너무 어려워서 업로드가 많이 늦어졌습니다.....
 
 @ flask 와 docker, pca 내용 곧 올라갑니다.
 
 @ 열일 하겠습니다.
+
+## 2022 / 11/ 06
+
+<mark>__파일 이름 pandas,python -> class2.ipynb__</mark>
+
+class... 언제쯤 정복할 수 있을까? 2 편 
+
+2-2 비공개 클래스 속성 
+
+2-3 파이썬에 내장된 property( ) 와 @property +$\alpha$ getter 와 setter
+
+
