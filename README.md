@@ -56,4 +56,14 @@ data leakage, cross validation, check point(주의점)
 
 2-3. 파이썬에 내장된 property( ) 와 @property +@ getter 와 setter
 
+## 2022 / 11/ 07
 
+<mark>__파일 이름 pandas,python -> class3.ipynb__</mark>
+
+함수와 클래스... 언제쯤 정복할 수 있을까? 3 편 (기본 개념 마지막 편) 
+
+2-4. 클래스의 상속
+
+2-5. 메소드의 오버라이딩
+
++@ 부모 클래스의 메소드 호출, 다중 상속
