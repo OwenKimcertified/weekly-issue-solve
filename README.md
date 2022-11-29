@@ -67,3 +67,7 @@ data leakage, cross validation, check point(주의점)
 2-5. 메소드의 오버라이딩
 
 +@ 부모 클래스의 메소드 호출, 다중 상속
+
+## 2022 / 11 / 29
+
+numpy array 1차 
