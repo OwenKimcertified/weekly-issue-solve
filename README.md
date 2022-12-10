@@ -65,3 +65,7 @@ data leakage, cross validation, check point(주의점)
 ## 2022 / 11 / 29
 
 numpy array 1차 
+
+numpy array 2차 
+
+torch, tensor array
