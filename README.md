@@ -69,3 +69,9 @@ numpy array 1차
 numpy array 2차 
 
 torch, tensor array
+
+## 2023 / 07 / 29
+
+<mark>__파일 이름 cache,persist.ipynb__</mark>
+
+spark 의 2가지 operation 과 아이디어 정리
