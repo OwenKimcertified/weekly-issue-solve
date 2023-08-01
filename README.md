@@ -81,3 +81,9 @@ spark 의 2가지 operation 과 아이디어 정리
 <mark>__파일 이름 shuffling_partitioning.ipynb__</mark>
 
 spark 에서 RDD 를 transform 할 때 발생하는 shuffling 문제 + partitioning 을 왜 신경써야 하는가?
+
+## 2023 / 08 / 02 
+
+<mark>__파일 이름 parctice_spark-sql.ipynb__</mark>
+
+spark-sql 쓰는 겸 sql query 연습 TLC TRIP DATA.parquet
