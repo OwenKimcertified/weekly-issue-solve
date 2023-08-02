@@ -87,3 +87,9 @@ spark 에서 RDD 를 transform 할 때 발생하는 shuffling 문제 + partition
 <mark>__파일 이름 parctice_spark-sql.ipynb__</mark>
 
 spark-sql 쓰는 겸 sql query 연습 TLC TRIP DATA.parquet
+
+## 2023 / 08 / 02 
+
+<mark>__파일 이름 spark_streaming_processing.ipynb__</mark>
+
+spark-streaming processing 과 생각해야 할 점.
