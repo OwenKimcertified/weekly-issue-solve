@@ -93,3 +93,9 @@ spark-sql 쓰는 겸 sql query 연습 TLC TRIP DATA.parquet
 <mark>__파일 이름 spark_streaming_processing.ipynb__</mark>
 
 spark-streaming processing 과 생각해야 할 점.
+
+## 2023 / 08 / 08
+
+<mark>__파일 이름 database_index.ipynb__</mark>
+
+database(mysql) 에서의 index 와 b-tree
