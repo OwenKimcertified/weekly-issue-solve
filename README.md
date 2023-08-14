@@ -99,3 +99,9 @@ spark-streaming processing 과 생각해야 할 점.
 <mark>__파일 이름 database_index.ipynb__</mark>
 
 database(mysql) 에서의 index 와 b-tree
+
+## 2023 / 08 / 15
+
+<mark>__파일 이름 ubuntu_ssh.ipynb__</mark>
+
+hadoop 을 설치하다 만난 ssh 에 대한 내용.
