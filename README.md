@@ -105,3 +105,7 @@ database(mysql) 에서의 index 와 b-tree
 <mark>__파일 이름 ubuntu_ssh.ipynb__</mark>
 
 hadoop 을 설치하다 만난 ssh 에 대한 내용.
+
+## 2023 / 09 / 23
+
+ELK Stack 개념
